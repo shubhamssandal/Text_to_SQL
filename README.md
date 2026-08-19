@@ -1,5 +1,4 @@
 
-
 # Text-to-SQL Chatbot 🗄️🤖
 
 Convert plain-English questions into MySQL queries using LLMs — with an automated evaluation layer to score query quality, faithfulness, and safety.
